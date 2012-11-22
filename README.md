@@ -1,6 +1,6 @@
 # Markdown::Toc
 
-TODO: Write a gem description
+Generates tables of contents for Markdown documentation. TODO write moar.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Use with `<div class="toc">` tags.
 
 ## Contributing
 
